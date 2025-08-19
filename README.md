@@ -20,16 +20,6 @@ A aplicação demonstra os conceitos básicos de desenvolvimento Android utiliza
 
 ---
 
-## 📸 Preview
-<div align="center">
-
-![Preview](https://via.placeholder.com/300x600/3DDC84/ffffff?text=Clique+Aqui!)  
-*Interface do aplicativo com botão centralizado*
-
-</div>
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 - **Android Studio** - IDE oficial para desenvolvimento Android  
 - **Kotlin** - Linguagem de programação moderna e concisa  
